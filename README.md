@@ -1,4 +1,5 @@
-Code for submission ID 420 titled: "Multi-Resolution Gradient Descent Networks for Image Registration"
+# Multi-Resolution Gradient Descent Networks for Image Registration
+Code for MICCAI 2022 submission ID 420
 
 Core dependencies:
 - Pytorch v1.8.1
