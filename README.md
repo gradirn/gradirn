@@ -1,3 +1,4 @@
+# [DEPRECATED REPO] see: https://github.com/qiuhuaqi/GraDIRN
 # Multi-Resolution Gradient Descent Networks for Image Registration
 Code for MICCAI 2022 submission ID 420
 
